@@ -244,3 +244,7 @@ This warning is visible only on development and totally harmless. This occurs to
 
 ## License
 MERN is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
+## checking out circleci
+I added this content to check circle ci
+adding another content
